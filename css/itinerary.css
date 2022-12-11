@@ -1,11 +1,11 @@
 .tour-itinerary_inner {
     color: var(--chapter-font-color);
     background-color:var(--background-dark);
-    display: flex;
+    display:flex;
     flex-direction: column;
     justify-content: left;
     align-items: left;
-    padding: 30px 24px 90;
+    padding: 30px 24px 90px;
 }
 .tour-itinerary-items {
     padding: 0px 15px;
